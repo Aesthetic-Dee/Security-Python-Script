@@ -26,8 +26,8 @@ Features
 
 #### Clone the repository:
 
-git clone https://github.com/yourusername/ssh-security-monitor.git
-cd ssh-security-monitor
+git clone https://github.com/Aesthetic-Dee/Security-Python-Script.git
+cd port_scan.py
 
 
 #### Ensure required system tools are installed:
